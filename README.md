@@ -43,6 +43,3 @@
 <DD>El abril, aguas mil.</DD>
 <DT>Mayo</DT>
 <DD>Hasta el 40 de mayo no te quites el sayo.</DD>
-</DL>
-</BODY>
-</HTML>
